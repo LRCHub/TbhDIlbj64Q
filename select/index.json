@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "冒険彗星 / AZKi × 星街すいせい (Cover)",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-01T06:46:33.080885Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冒険彗星",
+      "artist": "榎本 くるみ",
+      "has_synced": false,
+      "path": "select/pl_01_冒険彗星_榎本_くるみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "冒険彗星",
+      "artist": "榎本 くるみ",
+      "has_synced": false,
+      "path": "select/pl_02_冒険彗星_榎本_くるみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "冒険彗星",
+      "artist": "榎本 くるみ",
+      "has_synced": false,
+      "path": "select/pl_03_冒険彗星_榎本_くるみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "冒険彗星",
+      "artist": "榎本 くるみ",
+      "has_synced": false,
+      "path": "select/pl_04_冒険彗星_榎本_くるみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "冒険彗星",
+      "artist": "榎本 くるみ",
+      "has_synced": false,
+      "path": "select/pl_05_冒険彗星_榎本_くるみ.txt"
+    }
+  ]
+}
